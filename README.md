@@ -1,5 +1,4 @@
-- 👋 Hi, I’m José Fonsea
-- 👀 I’m interested in ...
+- 👋 Hi, I’m José Fonseca
 - 🌱 I’m currently learning Algorithms and Data Structures in C programming
 - 📫 Feel free to contact me through LinkedIn (www.linkedin.com/in/jose-fonseca-7117ba220)
 
