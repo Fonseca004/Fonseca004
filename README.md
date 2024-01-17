@@ -1,4 +1,3 @@
-- 👋 Hi, I’m José Fonseca
 - 🌱 I’m currently learning C programming
 - 📫 Feel free to contact me through LinkedIn (www.linkedin.com/in/jose-fonseca-7117ba220)
 
