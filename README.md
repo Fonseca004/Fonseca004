@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning Web Development
 - 📫 Feel free to contact me through LinkedIn (www.linkedin.com/in/jose-fonseca-7117ba220)
 
 <!---
